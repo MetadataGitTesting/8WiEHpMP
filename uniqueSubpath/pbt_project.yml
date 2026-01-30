@@ -1,0 +1,56 @@
+name: colin.emmerich
+description: instruction set
+version: 0.0.1
+author: eqt99yze.qzocdn1d@bllvqs7f.com
+language: sql
+buildSystem: ''
+buildSystemDetails: null
+pipelines:
+  pipelines/Noella_GleasonJustin_CredibleCarole_Huel:
+    name: Noella_GleasonJustin_CredibleCarole_Huel
+    description: null
+    author: eqt99yze.qzocdn1d@bllvqs7f.com
+    mode: batch
+    artefactID: ''
+    language: sql
+    createdAt: '2026-01-30 16:00:31'
+    datasets:
+      inputs: []
+      outputs: []
+    subgraphs: []
+    dependencies: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2026-01-30 16:00:31'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline:
+  name: sqlPipeline
+  description: null
+  author: eqt99yze.qzocdn1d@bllvqs7f.com
+  createdAt: '2026-01-30 16:00:31'
+dependencies: []
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
+projectConfigurations: {}
