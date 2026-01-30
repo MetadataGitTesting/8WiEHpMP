@@ -19,6 +19,19 @@ pipelines:
       outputs: []
     subgraphs: []
     dependencies: {}
+  pipelines/Miss_Shyla_RohanAndy_FrieseQuinn_Bode:
+    name: Miss_Shyla_RohanAndy_FrieseQuinn_Bode
+    description: null
+    author: eqt99yze.qzocdn1d@bllvqs7f.com
+    mode: batch
+    artefactID: ''
+    language: sql
+    createdAt: '2026-01-30 16:00:32'
+    datasets:
+      inputs: []
+      outputs: []
+    subgraphs: []
+    dependencies: {}
 datasets: {}
 templates: {}
 jobs: {}
